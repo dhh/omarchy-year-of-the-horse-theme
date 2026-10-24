@@ -2,7 +2,7 @@
 
 A Chinese Year of the Horse theme with deep crimson surfaces, soft red highlights, pale yellow accents, and warm white text.
 
-![Year of the Horse theme preview](preview.png)
+![Year of the Horse theme preview with red folder icons](preview.png?v=6e76f7f)
 
 ## Install
 
